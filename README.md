@@ -13,8 +13,8 @@ NewsMonkey is a web application that aggregates news articles from various domai
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/your_username/newsmonkey.git`
-2. Navigate to the project directory: `cd newsmonkey`
+1. Clone the repository: `git clone https://github.com/Afaf2003/NewsMoneky-Application.git`
+2. Navigate to the project directory: `cd NewsMoneky-Application`
 3. Install dependencies: `npm install`
 4. Obtain API keys for the external APIs used (if required) and configure them in your environment or project settings.
 5. Start the server: `npm start`
